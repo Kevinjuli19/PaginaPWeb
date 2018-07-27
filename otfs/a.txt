@@ -1,0 +1,63 @@
+<!-- Start Experience Section -->
+<div class="experiences center" id="experiences">
+  <div class="container">
+    <!-- Title -->
+    <div class="title wow fadeIn" data-wow-duration="0.5s" data-wow-offset="200">
+      <h2 class="h2">work experiences</h2>
+      <div class="heading-line"></div>
+      <p class="main-para">Professionally expedite orthogonal deliverables with emerging best practices. Uniquely leverage other's robust core competencies.</p>
+    </div>
+    <!-- start timeline -->
+    <div class="timeline wow fadeIn" data-wow-duration="0.5s" data-wow-offset="200">
+      <!-- Event No. 1 -->
+      <div class="timeline-block clearfix wow fadeInLeft" data-wow-duration="0.5s" data-wow-offset="200">
+        <div class="icon">
+          <i class="fa fa-graduation-cap"></i>
+        </div>
+        <div class="content left round-corners">
+          <h3>Ulzarod</h3>
+          <span class="duration">( Feb. 2004 : June 2008 )</span>
+          <span class="job-title"> junior UX designer</span>
+          <p>Distinctively empower flexible interfaces with high-quality catalysts for change. Synergistically extend superior materials before exceptional customer service. Dramatically plagiarize sticky intellectual capital whereas vertical.</p>
+        </div>
+      </div>
+      <!-- Event No. 2 -->
+      <div class="timeline-block clearfix wow fadeInRight" data-wow-duration="0.5s" data-wow-offset="200">
+        <div class="icon">
+          <i class="fa fa-briefcase"></i>
+        </div>
+        <div class="content right round-corners">
+          <h3>Lexona Co</h3>
+          <span class="duration">( Aug. 2008 : Mar. 2010 )</span>
+          <span class="job-title"> visual designer</span>
+          <p>Credibly architect visionary benefits vis-a-vis functional e-business. Uniquely cultivate client-based process improvements via diverse models. Objectively orchestrate alternative expertise.</p>
+        </div>
+      </div>
+      <!-- Event No. 3 -->
+      <div class="timeline-block clearfix wow fadeInLeft" data-wow-duration="0.5s" data-wow-offset="200">
+        <div class="icon">
+          <i class="fa fa-archive"></i>
+        </div>
+        <div class="content left round-corners">
+          <h3>master arts</h3>
+          <span class="duration">( May 2010 : Sep. 2013 )</span>
+          <span class="job-title"> visual / uI designer</span>
+          <p>Credibly architect visionary benefits vis-a-vis functional e-business. Uniquely cultivate client-based process improvements via diverse models. Objectively orchestrate alternative expertise.</p>
+        </div>
+      </div>
+      <!-- Event No. 4 -->
+      <div class="timeline-block clearfix wow fadeInRight" data-wow-duration="0.5s" data-wow-offset="200">
+        <div class="icon">
+          <i class="fa fa-star"></i>
+        </div>
+        <div class="content right round-corners">
+          <h3>Matrix Media</h3>
+          <span class="duration">( 2014 : NOW )</span>
+          <span class="job-title"> visual / uI designer</span>
+          <p>Monotonectally benchmark ubiquitous relationships rather than professional convergence. Assertively mesh cross-media metrics rather than adaptive platforms. Distinctively communicate superior.</p>
+        </div>
+      </div>
+    </div> <!-- End Timeline -->
+  </div>
+</div>
+<!-- End Experience Section -->
